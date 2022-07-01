@@ -1,2 +1,2 @@
 # pipeline_job
-pipeline sript
+my-first-pipeline
